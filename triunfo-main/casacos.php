@@ -69,7 +69,7 @@
                             <a href="comprar.php"><img src="imgs/moletom5.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <td><p class="has-text-centered has-text-grey"> Moletom Simples </p></td>
+                    <td><p class="has-text-centered has-text-grey"> Moletom Simples Preto </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$125,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
@@ -82,7 +82,7 @@
                             <a href="comprar.php"><img src="imgs/moletom6.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Moletom Simples </p></td>
+                <td><p class="has-text-centered has-text-grey"> Casaco De Inverno  </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$159,99</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
@@ -126,7 +126,7 @@
                             <a href="comprar.php"><img src="imgs/moletom8.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Moleton  </p></td>
+                <td><p class="has-text-centered has-text-grey"> Casaco De Inverno Longo  </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$152,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
@@ -139,7 +139,7 @@
                             <a href="comprar.php"><img src="imgs/moletom9.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                <td><p class="has-text-centered has-text-grey"> Moleton Napolitano </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$165,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
@@ -151,7 +151,7 @@
                             <a href="comprar.php"><img src="imgs/moletom10.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                <td><p class="has-text-centered has-text-grey"> Jakcta de Couro </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$130,99</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
@@ -164,7 +164,7 @@
                             <a href="comprar.php"><img src="imgs/moletom11.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                    <td><p class="has-text-centered has-text-grey"> Moleton Cinza da NIke </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$176,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
@@ -178,7 +178,7 @@
                             <a href="comprar.php"><img src="imgs/moletom12.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Moletom </p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom Peludo </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$225,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
