@@ -18,8 +18,8 @@
                             <a href="comprar.php"><img src="imgs/moletom1.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom Branco Simples </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$120,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
