@@ -19,7 +19,7 @@
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Moletom Branco Simples </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$120,00</b></p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$125,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
@@ -31,8 +31,8 @@
                             <a href="comprar.php"><img src="imgs/moletom2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom Preto Simples </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$135,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -44,8 +44,8 @@
                             <a href="comprar.php"><img src="imgs/moletom3.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom Verde Simples </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$165,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
                 <br>
@@ -56,8 +56,8 @@
                             <a href="comprar.php"><img src="imgs/moletom4.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Molentom Cinza Simples</p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$154,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -69,8 +69,8 @@
                             <a href="comprar.php"><img src="imgs/moletom5.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                    <td><p class="has-text-centered has-text-grey"> Moletom Simples </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$125,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
 
@@ -82,8 +82,8 @@
                             <a href="comprar.php"><img src="imgs/moletom6.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom Simples </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$159,99</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
         </div>
@@ -113,8 +113,8 @@
                             <a href="comprar.php"><img src="imgs/moletom7.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Jakcta Moletom  </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$180,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
@@ -126,8 +126,8 @@
                             <a href="comprar.php"><img src="imgs/moletom8.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moleton  </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$152,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -139,8 +139,8 @@
                             <a href="comprar.php"><img src="imgs/moletom9.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$165,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
                 <br>
@@ -151,8 +151,8 @@
                             <a href="comprar.php"><img src="imgs/moletom10.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$130,99</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -164,8 +164,8 @@
                             <a href="comprar.php"><img src="imgs/moletom11.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                    <td><p class="has-text-centered has-text-grey"> Moleton </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$176,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
 
@@ -178,8 +178,8 @@
                             <a href="comprar.php"><img src="imgs/moletom12.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Moletom </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$225,50</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
