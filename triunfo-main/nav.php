@@ -27,25 +27,26 @@
                         </div>
                     </div>
                     
-                    <h3 class="px-6 mx-6 pt-6 has-text-left has-text-whites">  <a href="index.html" class="has-text-centered has-text-black">Entre ou cadastre-se </a></h3>
+                    <h3 class="px-6 mx-6 pt-6 has-text-left has-text-whites">  <a href="cadastro.php" class="has-text-centered has-text-black">Entre ou cadastre-se </a></h3>
                     
                 </div>
                 <div class="columns is-flex-direction-row">
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="camisas.html">CAMISAS</a></div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="acessorios.html">ACESSÓRIOS </a></div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="calcas.html">CALÇAS</a> </div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="moletons.html">MOLETONS</a> </div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="oculos.html">ÓCULOS</a> </div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="bermudas.html">BERMUDAS</a> </div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="camisas.php">CAMISAS</a></div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="acessorios.php">ACESSÓRIOS </a></div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="calcas.php">CALÇAS</a> </div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="casacos.php">CASACOS</a> </div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="oculos.php">ÓCULOS</a> </div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="bermudas.php">BERMUDAS</a> </div>
                     <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="calcados.php">CALÇADOS</a> </div>
                     <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="intimos.php">ÍNTIMOS</a> </div>
-                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="estilos.html">ESTILOS</a> </div>
+                    <div class="c p-2 bd-highlight has-background"> <a class="has-text-black" href="estilos.php">ESTILOS</a> </div>
+                    
 
                 </div>
             </div>
             <div class="column"> </div>
         </div>
-        <div class="d"><br></div>
         <div class="column"></div>
     </div>
+   
 </nav>

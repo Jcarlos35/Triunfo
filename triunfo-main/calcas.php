@@ -2,7 +2,7 @@
 
 <div>
     <br>
-    <h4 class="em-wide has-text-centered is-size-1">CALÇADOS</h4>
+    <h4 class="em-wide has-text-centered is-size-1">CALÇAS</h4>
     <br>
 </div>
 
@@ -15,7 +15,7 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t1.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca1.jfif" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -28,7 +28,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t2.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca2.jfif" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -41,7 +41,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t3.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca3.jfif" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -53,7 +53,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t4.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca4.jpg" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -66,7 +66,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t5.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca5.jfif" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
                     <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -79,7 +79,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t6.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calca6.jpg" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -110,7 +110,7 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t7.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas7.jfif" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -123,7 +123,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t8.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas8.jpg" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -136,7 +136,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t9.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas9.webp" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -148,7 +148,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t10.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas10.jpg" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -161,7 +161,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t11.webp" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas11.webp" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
                     <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -175,7 +175,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t12.webp" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/calcas12.webp" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>

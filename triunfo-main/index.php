@@ -89,7 +89,7 @@
                         </figure>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <a class="has-text-black" href="comprar.php"><b>Comprar</b></a>
             </div>
 
             <div class="column">
@@ -101,7 +101,7 @@
                         </figure>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <a class="has-text-black" href="comprar.php"><b>Comprar</b></a>
             </div>
 
             <div class="column">
@@ -116,7 +116,7 @@
                         </figure>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <a class="has-text-black" href="comprar.php"><b>Comprar</b></a>
             </div>
         </div>
     </div>
@@ -143,7 +143,7 @@
                     <img src="imgs/model1.png">
                 </figure>
 
-                <h4>Vestido verde<br>Comprar</h4>
+                <h4>Vestido verde<br><b>Comprar</b></h4>
 
 
                 <!--fim da div coluna 1-->

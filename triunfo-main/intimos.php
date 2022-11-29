@@ -3,7 +3,6 @@
 <div>
     <br>
     <h4 class="em-wide has-text-centered is-size-1">ÍNTIMOS</h4>
-
     <br>
 </div>
 
@@ -16,11 +15,13 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
                 <br>
@@ -28,60 +29,69 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
-
+            <br>
+                <br>
             <div class="column">
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
                 <br>
                 <br>
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
-
+            <br>
+                <br>
             <div class="column">
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <a class="has-text-black" href="comprar.html">Comprar</a>
+                    <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
 
-
+<br>
                 <br>
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
         </div>
     </div>
 
-
+    <br>
+                <br>
     <div class="column"><br></div>
 </div>
 </div>
@@ -101,11 +111,12 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
                 <br>
@@ -113,60 +124,69 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
-
+            <br>
+                <br>
             <div class="column">
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
                 <br>
                 <br>
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
-
+            <br>
+                <br>
             <div class="column">
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <a class="has-text-black" href="comprar.html">Comprar</a>
+                    <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
 
 
-
+<br>
                 <br>
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        </figure>
+                            <a href="comprar.php"><img src="imgs/formato2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <a class="has-text-black" href="comprar.html">Comprar</a>
+                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
+            <br>
+                <br>
         </div>
     </div>
     <div class="column"><br></div>
-</div>
-
-<?php include __DIR__ . './footer.php'; ?>
+                </div>
+                <?php include __DIR__ . './footer.php'; ?>

@@ -2,7 +2,7 @@
 
 <div>
     <br>
-    <h4 class="em-wide has-text-centered is-size-1">CALÇADOS</h4>
+    <h4 class="em-wide has-text-centered is-size-1">CAMISAS</h4>
     <br>
 </div>
 
@@ -15,11 +15,11 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t1.png" alt="Placeholder image"></a>
+                            <a href="<b><b>Comprar</b></b>.php"><img src="imgs/camisabranca.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Camisa branca </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$50,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
 
@@ -28,11 +28,11 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t2.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Camisa Las vegas Bege </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$70,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -41,11 +41,11 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t3.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa3.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Camisa visão bagunçada </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$69,90</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
 
                 <br>
@@ -53,11 +53,11 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t4.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa4.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Camisa Velean Branca </p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$110,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
             <br>
@@ -66,10 +66,10 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t5.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa5.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
-                    <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
+                    <td><p class="has-text-centered has-text-grey"> Camisa preta Lacoste </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
                 </div>
@@ -79,11 +79,11 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t6.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa6.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
-                <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
-                <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
+                <td><p class="has-text-centered has-text-grey"> Cropped Verde Paris 1997</p></td>
+                <td><p class="has-text-centered has-text-black"> <b>R$140,00</b></p></td>
                <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
             </div>
         </div>
@@ -110,7 +110,7 @@
                 <div class="card">
                     <div class="card-image ">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t7.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa2.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -123,7 +123,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t8.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa3.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -136,7 +136,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t9.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa6.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -148,7 +148,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t10.png" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa5.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
@@ -161,12 +161,12 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t11.webp" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa4.png" alt="Placeholder image"></a>
                         </figure>
                     </div class="has-background-grey-lighter">
                     <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
                 <td><p class="has-text-centered has-text-black"> <b>R$200,00</b></p></td>
-               <div> <a class="has-text-black" href="comprar.php"><b>Comprar</b></a></div>
+               <div> <a class="has-text-black" href="comprar.php"><b><b>Comprar</b></b></a></div>
                 </div>
 
 
@@ -175,7 +175,7 @@
                 <div class="card">
                     <div class="card-image">
                         <figure class="image is-square">
-                            <a href="comprar.php"><img src="imgs/t12.webp" alt="Placeholder image"></a>
+                            <a href="comprar.php"><img src="imgs/camisa4.png" alt="Placeholder image"></a>
                     </div>
                 </div class="has-background-grey-lighter">
                 <td><p class="has-text-centered has-text-grey"> Pendão de ouro 4 quilates </p></td>
