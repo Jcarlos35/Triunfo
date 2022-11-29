@@ -1,0 +1,130 @@
+.body {
+  margin:0;
+  box-sizing: border-box;
+}
+.slider-text {
+    position: absolute;
+    right: 0;
+    bottom: 0
+  }
+  
+#slider .card-content{
+    max-width: 50%;
+  }
+  
+#slider{
+    overflow: hidden;
+  }
+  
+@media screen and (max-width: 1023px) {
+    #slider .card-content{
+      display: none;
+    }
+  }
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.item-slide img {
+  max-width: 1200px;
+}
+
+.caption-container {
+  color: white;
+}
+.em-wide  { letter-spacing: 0.4em; }
+
+#menu {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
+
+.navbar {
+  height: 70px;
+  padding: 10px;
+}
+
+.head{
+  margin-top: 70px;
+}
+
+.wrap {
+  display: flex;
+}
+
+.left {
+  background: red;
+  flex-basis: 20%;
+}
+
+.right {
+  background: green;
+  flex-basis: 80%;
+  
+  height: 100vh; 
+  overflow: auto;
+}
+
+.view {
+     background: blue;
+      height: 100px;
+      width: 100vw;
+      overflow:hidden;
+      position: fixed;
+      width: 100%;
+        }
+nav{
+overflow: hidden;
+background-color: #ffffff;
+z-index: 999;
+};
+.principal{
+  padding:16px;
+}
+.FixoNoTopo{
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.FixoNoTopo + .principal{
+  padding-top: 60px;
+}
+div.c {
+  line-height: 220%;
+}        
+div.d {
+  line-height: 10%;
+  background-color: black;
+}  
